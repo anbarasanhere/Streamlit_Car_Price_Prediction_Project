@@ -5,4 +5,5 @@ step - 2 : create a virtual env and activate it
 step - 3 : install streamlit - pip install streamlit
 step - 4 : check streamlit - streamlit hello
 step - 5 : It will create a local server with url http://192.168.0.104:8501
-step - 6 : 
+step - 6 : to run streamlit - streamlit run intro.py
+step - 7 : add elements as you wish 
