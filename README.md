@@ -14,3 +14,9 @@ Check out the deployed app here :
 - step - 7 : add elements as you wish 
 ---
 # Tech Stacks used:
+- Python
+- Scikit-Learn
+- Streamlit
+- GitHub
+- VS code
+---
