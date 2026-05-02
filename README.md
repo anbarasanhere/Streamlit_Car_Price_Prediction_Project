@@ -1,4 +1,4 @@
-Check out the app here :
+Check out the deployed app here :
 {https://carpricepredictionow.streamlit.app/}
 # Streamlit_Car_Price_Prediction_Project
 This repo contains a project to predict car price using streamlit application
