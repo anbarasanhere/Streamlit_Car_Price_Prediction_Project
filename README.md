@@ -1,8 +1,8 @@
 Check out the app here :
 {https://carpricepredictionow.streamlit.app/}
 # Streamlit_Car_Price_Prediction_Project
-this repo contains a project to predict car price using streamlit application
-- step - 1 : open the folder
+This repo contains a project to predict car price using streamlit application
+- step - 1 : Create & Open the folder - Streamlit_Car_Price_Prediction_Project
 - step - 2 : create a virtual env and activate it
 - step - 3 : install streamlit - pip install streamlit
 - step - 4 : check streamlit - streamlit hello
