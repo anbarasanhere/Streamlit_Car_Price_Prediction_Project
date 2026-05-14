@@ -11,7 +11,7 @@ Check out the deployed app here :
 ---
 # Steps involved in this price prediction project 
 ---
-- step - 1 : Create & Open the folder - Streamlit_Car_Price_Prediction_Project
+- step - 1 : Create the folder - Streamlit_Car_Price_Prediction_Project
 - step - 2 : create a virtual env and activate it
 - step - 3 : install streamlit - pip install streamlit
 - step - 4 : check streamlit - streamlit hello
